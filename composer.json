@@ -1,0 +1,19 @@
+{
+    "name": "mtamo/logger",
+    "description": "A library to log data.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mtamo\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mustafa Tamo",
+            "email": "mustafatamo1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
